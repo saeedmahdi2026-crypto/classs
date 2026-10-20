@@ -1,0 +1,1470 @@
+{
+  "accessCodes": [
+    {
+      "id": "code-1",
+      "code_hash": "154958918d8f4c398730f592a1b3e477706c17533a9c4ac9569845c4a4a49ffe",
+      "salt": "c9e7b714722073f4395896d62858bc63",
+      "masked_display": "ENG-****-01",
+      "assigned_student_ref": "STU-2026-1001",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": "2026-10-20T18:53:56.037Z",
+      "max_sessions": 2,
+      "active_sessions": [
+        "b126673a0a1a41420e9681e9462b56ef0fd344d43c8e3a57f50850b19bd6dc77",
+        "88dca464b9d0f4587e1c64c3769be0f2f08c830691198f87dc4d4b4e2209d334"
+      ]
+    },
+    {
+      "id": "code-alt-stu-1",
+      "code_hash": "706126a38a03a5ed9f99f5d1c5d1dd7e9b58626d44fdb878ca3e5d6783ae1c41",
+      "salt": "f51a277c4e0d60a74ba45514fcd24681",
+      "masked_display": "STU-****-01",
+      "assigned_student_ref": "STU-2026-1001",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": "2026-10-20T18:35:33.786Z",
+      "max_sessions": 2,
+      "active_sessions": [
+        "bc7ec7f6ef6f58e36990eee3114d4c6838c76d6089c33eba0fc8e0e8ae8c5238"
+      ]
+    },
+    {
+      "id": "code-alt-eng-1",
+      "code_hash": "234ece11e0376eae2cc50b7707dac3194f6da5864c9f470381a5f6faa42c4306",
+      "salt": "78b7285516e1e300293d2eabda6a8968",
+      "masked_display": "ENG-****-01",
+      "assigned_student_ref": "STU-2026-1001",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-2",
+      "code_hash": "c7d8cc463fae846e3ef5605d13cf1e419db269353e74dbe41f937f3326dcac50",
+      "salt": "0c5d3f9908fd260df7223cf681e6bf9e",
+      "masked_display": "ENG-****-02",
+      "assigned_student_ref": "STU-2026-1002",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-2",
+      "code_hash": "9c0bdfd9caf603ba9a7e68b2069b19ce4e640b3c723a8fec61b320470cdb50ae",
+      "salt": "2305fff877959f37a74cafd510010bfb",
+      "masked_display": "STU-****-02",
+      "assigned_student_ref": "STU-2026-1002",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-2",
+      "code_hash": "86d148b6a661118b9817a89b84fa6ef8dc605f722fea66a141df29e9019f09b4",
+      "salt": "da060f8a7a3c37d3ef50ebd7e63c6d0e",
+      "masked_display": "ENG-****-02",
+      "assigned_student_ref": "STU-2026-1002",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-3",
+      "code_hash": "51acb042e890ffa58589f7b5b2673a4001005b51b6819f14ba7492e884f8f845",
+      "salt": "402da2536f0118d10d4c744295f5d2e8",
+      "masked_display": "ENG-****-03",
+      "assigned_student_ref": "STU-2026-1003",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-3",
+      "code_hash": "d2ced5dacb48b8b11334edd54a597689682f72f11ecd8f5a3c26a1b142490381",
+      "salt": "3ddef0185130574504a7975240fc3f26",
+      "masked_display": "STU-****-03",
+      "assigned_student_ref": "STU-2026-1003",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-3",
+      "code_hash": "349c0fc49498d5efd8b9757d6039b9d1012de065cfe7c0e4bc6db9c61d3b4f18",
+      "salt": "d055879961199850065f781fecacd5fe",
+      "masked_display": "ENG-****-03",
+      "assigned_student_ref": "STU-2026-1003",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-4",
+      "code_hash": "ad716ffaebdff0130289bf28fa55bfa21df8f9b44dcdb8b6d8058b9c3ff25b09",
+      "salt": "222f0f1ae5bb3b85414067a26ef8c63a",
+      "masked_display": "ENG-****-04",
+      "assigned_student_ref": "STU-2026-1004",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-4",
+      "code_hash": "b8cbbe5e40cdfee151021b95c6b62cea0fdcea5a1406d909c9c2c7dc55c396fd",
+      "salt": "2f0b010955bc3d5b18e48cff5ff3de2c",
+      "masked_display": "STU-****-04",
+      "assigned_student_ref": "STU-2026-1004",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-4",
+      "code_hash": "afc3b2ad19ff6066b0cde0e37193e83141e1a8a892fff410cf9a18c845da87cc",
+      "salt": "d6c38c72c4995558449457022fa0ed81",
+      "masked_display": "ENG-****-04",
+      "assigned_student_ref": "STU-2026-1004",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-5",
+      "code_hash": "3fa8ddb313106694842a5a857852a154406f156b6560c9be2fe25f45b0901580",
+      "salt": "92752c0e5438f74ff7d607f427150bee",
+      "masked_display": "ENG-****-05",
+      "assigned_student_ref": "STU-2026-1005",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-5",
+      "code_hash": "1b423323d22464b7b7df4745acc59d6e61ecd363e81e17bea2b9c04e9a5a8e21",
+      "salt": "cab7725bfc50e646bb9f1adb5d9b15ee",
+      "masked_display": "STU-****-05",
+      "assigned_student_ref": "STU-2026-1005",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-5",
+      "code_hash": "dfb5ddf316353d905353ac5a52f4c916b75a8f43b121363dbd9cb6f1fd29d5d2",
+      "salt": "76c304a57256b611c16069c460652d77",
+      "masked_display": "ENG-****-05",
+      "assigned_student_ref": "STU-2026-1005",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-6",
+      "code_hash": "1114f6562916e17c2b03d79c9036cf19bc1cd898ddd550b479f6ae8aaa278da2",
+      "salt": "6f68f8e28724d60b1e021fbfc7bee38a",
+      "masked_display": "ENG-****-06",
+      "assigned_student_ref": "STU-2026-1006",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-6",
+      "code_hash": "4fe2021f24f81d5b0bba9f38e25cc018aecc5161459f71fbe4ba296a54b3f135",
+      "salt": "274419c1483540eac642da84d71a1256",
+      "masked_display": "STU-****-06",
+      "assigned_student_ref": "STU-2026-1006",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-6",
+      "code_hash": "1d69c4654449d69b5df112d45d48e67ee4f8cd54b0c807cc1b5044bd73df8f32",
+      "salt": "9292d43cbe7e39919b1eb367de67b65a",
+      "masked_display": "ENG-****-06",
+      "assigned_student_ref": "STU-2026-1006",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-7",
+      "code_hash": "57befa4e1dce50fbfd802f1f2c088a62999231c49d622ef32eaa6202b76280b7",
+      "salt": "fdbea7c8193e742311c22deac88bc687",
+      "masked_display": "ENG-****-07",
+      "assigned_student_ref": "STU-2026-1007",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-7",
+      "code_hash": "a4d9e3ce1485b2c26f3bb8b41521b01295d407765e222bc2085da82242b7befa",
+      "salt": "4cddc3ee4059cd71adc594d51216b7f6",
+      "masked_display": "STU-****-07",
+      "assigned_student_ref": "STU-2026-1007",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-7",
+      "code_hash": "70f158f262a3bca581885200e761dc5efb8c1b889c69e116b6281bb61b7bf35b",
+      "salt": "6cf4a4886d7f5f37a56150e07e5f5609",
+      "masked_display": "ENG-****-07",
+      "assigned_student_ref": "STU-2026-1007",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-8",
+      "code_hash": "7c2e15ded4f5390f4a07bf62585950b5e44413a4d5136fe931a576f6a9d14b99",
+      "salt": "bd2f79ec425e3c8e3741581cd5f92029",
+      "masked_display": "ENG-****-08",
+      "assigned_student_ref": "STU-2026-1008",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-8",
+      "code_hash": "75d1625db7505852bf7b2ee0e53de421de1d6ddd8c7f38367581b11e9c522195",
+      "salt": "e88bca85f43a8997f7f4a8b6dd6f7e23",
+      "masked_display": "STU-****-08",
+      "assigned_student_ref": "STU-2026-1008",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-8",
+      "code_hash": "2eb09be9efb22d8c39b4b2320ecf81e430371874eb7199a4697eb34970bfcaea",
+      "salt": "32ced6cb5ceeefca1e07f9f908dafdc5",
+      "masked_display": "ENG-****-08",
+      "assigned_student_ref": "STU-2026-1008",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-9",
+      "code_hash": "8738be111518f865bea133c31b4f59426cf0216de9c5de895d8f703888ea9e3e",
+      "salt": "f6deb2b76e6d1646581daafbfd0b424c",
+      "masked_display": "ENG-****-09",
+      "assigned_student_ref": "STU-2026-1009",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-9",
+      "code_hash": "4593da0ed6768860d7fe00665b098642f34ba12e396834f6e7e3338d714b281b",
+      "salt": "0a21c62d6386e2d84078d4e067f5e929",
+      "masked_display": "STU-****-09",
+      "assigned_student_ref": "STU-2026-1009",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-9",
+      "code_hash": "4448d1a46af6f941c963629bf4470a1ff4da445fcbcaf6a1fdd24f91aab03ef6",
+      "salt": "659b9fc6264b81251c2fa7367d8ff744",
+      "masked_display": "ENG-****-09",
+      "assigned_student_ref": "STU-2026-1009",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-10",
+      "code_hash": "1d35e31a939617d067692e6c1bb6da288c12d0f456a13fbea637d8dc1965ea8d",
+      "salt": "a042761d47dec4f8fc546015ef542c47",
+      "masked_display": "ENG-****-10",
+      "assigned_student_ref": "STU-2026-1010",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-10",
+      "code_hash": "52f1af69aeaa1b36ec76a09b89034e947dccc584ba83b9fce28a43935d1e4a32",
+      "salt": "8d4a254bd923d0ba8ee9634e4d9608fe",
+      "masked_display": "STU-****-10",
+      "assigned_student_ref": "STU-2026-1010",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-10",
+      "code_hash": "ded643ef356cef84b535fd0a22c2882681313c94534c84838e40e3b6b5e56830",
+      "salt": "2c96c5e38c5f4df27095521af54b8295",
+      "masked_display": "ENG-****-10",
+      "assigned_student_ref": "STU-2026-1010",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-11",
+      "code_hash": "75fab276f00eba67e4d0571f0ba77acffda192989d832300f916de308784f125",
+      "salt": "d54c617e946f91fd4e37bd3097f0e885",
+      "masked_display": "ENG-****-11",
+      "assigned_student_ref": "STU-2026-1011",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-11",
+      "code_hash": "6df9bae7e0c0c95dccc52f5ed3046b9ebe6f75a7b8e2783ddd317cc7f2aa7fa5",
+      "salt": "a0d06d5e4797c0bcd582c3e370ac452e",
+      "masked_display": "STU-****-11",
+      "assigned_student_ref": "STU-2026-1011",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-11",
+      "code_hash": "d5764abe3069d37f0fb21fa43fea826f8bed11fc7269aea1f516a92ee4299917",
+      "salt": "411efca1ec742b1bfd53129172389ca4",
+      "masked_display": "ENG-****-11",
+      "assigned_student_ref": "STU-2026-1011",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-12",
+      "code_hash": "7a1e505cbd4b9445c1e3236c061d89d170cd15f01f8997e6f217888f98e35854",
+      "salt": "69714c5d64a80d13709b7e83dbf645a1",
+      "masked_display": "ENG-****-12",
+      "assigned_student_ref": "STU-2026-1012",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-12",
+      "code_hash": "af7d6d702f93a1d49d04fcfcae93ab2f36577145a2ec7367aa193d3e91cd4e8b",
+      "salt": "24d8499385e28225354813a227922f01",
+      "masked_display": "STU-****-12",
+      "assigned_student_ref": "STU-2026-1012",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-12",
+      "code_hash": "7c51162ec26f290db8660d71c176c067c6eab2c4b95be15efa135d5ac9303f32",
+      "salt": "a04c0c8655ee15690618af08e2297395",
+      "masked_display": "ENG-****-12",
+      "assigned_student_ref": "STU-2026-1012",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-13",
+      "code_hash": "91cf322cbd2fe6ad1b25c623296acdeaf12a2899358c02da3f46ca99edf782ae",
+      "salt": "e28e7de332e66c5e8f0a8d3b4c44d71f",
+      "masked_display": "ENG-****-13",
+      "assigned_student_ref": "STU-2026-1013",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-13",
+      "code_hash": "0253e84b4d30ad83d4922fe412aaca11ed3d4f32e8f9776e3669e5015b2dc3ed",
+      "salt": "e34b68841bf013caed57db50321df1a7",
+      "masked_display": "STU-****-13",
+      "assigned_student_ref": "STU-2026-1013",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-13",
+      "code_hash": "556eb511605928a79549ff58f5baa31d787da8f3a517b86219e460c7898ecf9b",
+      "salt": "270afa6a70a4a5f4632869768c3e2efa",
+      "masked_display": "ENG-****-13",
+      "assigned_student_ref": "STU-2026-1013",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-14",
+      "code_hash": "2a0e5130d36d5771bf580855d1e48e66ef9613e1d6cb1d079ae260d25b967396",
+      "salt": "b9ee1142a683210bb3bd7f33e7ab76da",
+      "masked_display": "ENG-****-14",
+      "assigned_student_ref": "STU-2026-1014",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-14",
+      "code_hash": "0114e50b66274237df8d40553cb3d40ca1c4ecc2140ca63558aaa9ad9e8bb296",
+      "salt": "dd4231a68a9f116fbf411bcf25bac0cd",
+      "masked_display": "STU-****-14",
+      "assigned_student_ref": "STU-2026-1014",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-14",
+      "code_hash": "be063dd65f85c0f34f2df08ecdd8d0157374bb39d31ed9f67dce000be74fcc74",
+      "salt": "1819106a8ed1268673cfe57a8267d454",
+      "masked_display": "ENG-****-14",
+      "assigned_student_ref": "STU-2026-1014",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-15",
+      "code_hash": "eb38c00e19155d9798f5646dd0fe010d9d9b8d663a26b816ed65a7d5c25f7699",
+      "salt": "cf01b6a251ceb68902fe8b4533bfa607",
+      "masked_display": "ENG-****-15",
+      "assigned_student_ref": "STU-2026-1015",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-15",
+      "code_hash": "b7ae168dfd64992b0df2d051716560f39b1c817120267c924f0ba85f757483d6",
+      "salt": "6bca0416ba196d16e09bd135b3fe9769",
+      "masked_display": "STU-****-15",
+      "assigned_student_ref": "STU-2026-1015",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-15",
+      "code_hash": "d4f7699eed4aeb492eb19603ea06152efe396ea40c52520527164af715edb9af",
+      "salt": "fa6085ed11b60b99f1a67154560badbc",
+      "masked_display": "ENG-****-15",
+      "assigned_student_ref": "STU-2026-1015",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-16",
+      "code_hash": "45bae9410f362c105c03b907def90ee3f6a1d5df2bfda2139b8807a184073069",
+      "salt": "8ba15d1ea64d325b838f0660045108bd",
+      "masked_display": "ENG-****-16",
+      "assigned_student_ref": "STU-2026-1016",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-16",
+      "code_hash": "a05e9a85f1d1e62e6555859b3e2172efbc90a15f640ffe8a97e6533bed1f3bea",
+      "salt": "4b44882e480f5bf5cfc5459f14e97ac9",
+      "masked_display": "STU-****-16",
+      "assigned_student_ref": "STU-2026-1016",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-16",
+      "code_hash": "ba413db4125876478a715c37e812aaae61cfd085759e22bfe05ecd759bd54863",
+      "salt": "3233ed95c6e39fcaa8305b7af3ed75dd",
+      "masked_display": "ENG-****-16",
+      "assigned_student_ref": "STU-2026-1016",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-17",
+      "code_hash": "6c965adba189ffaa7907f9b3c5feaa2c81b8b4ef254fbe1a35a07f9485280688",
+      "salt": "a30fd27cedc62ab4cfbb262dd209e6ac",
+      "masked_display": "ENG-****-17",
+      "assigned_student_ref": "STU-2026-1017",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-17",
+      "code_hash": "0ce4b78c0cdeade02b7d0afb25baf5db6dc3baee0e74b2b057048a06c2c5f4c1",
+      "salt": "2bfcb11ff8cc30fbe851d1a3969d66d8",
+      "masked_display": "STU-****-17",
+      "assigned_student_ref": "STU-2026-1017",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-17",
+      "code_hash": "986a10b02dc07df08f1825293a5b030b155350b43c9d5c10887a260d3357c92f",
+      "salt": "0714b70a6b0aa3835672a0343ef42d71",
+      "masked_display": "ENG-****-17",
+      "assigned_student_ref": "STU-2026-1017",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-18",
+      "code_hash": "00ba7545ebca9aa92db0d92a2ca54f12977747e07dd963dfc0262192cf33e0a8",
+      "salt": "4f1cc1825e8c2d8f7456c47d653f61ec",
+      "masked_display": "ENG-****-18",
+      "assigned_student_ref": "STU-2026-1018",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-18",
+      "code_hash": "5ac475e51bf14ab2049854f9cb0e83f4ba99f5cda042c4274ee31ad9b1cb1b56",
+      "salt": "0309999b524d19229a9a37f89cc01ed4",
+      "masked_display": "STU-****-18",
+      "assigned_student_ref": "STU-2026-1018",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-18",
+      "code_hash": "d08216b9bc9dd2874dbe9c5e19ca3873b1031a401b3c50e8c2584c90f72ec862",
+      "salt": "93d5f79e42fba70f9304257664f20886",
+      "masked_display": "ENG-****-18",
+      "assigned_student_ref": "STU-2026-1018",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-19",
+      "code_hash": "5ee88d0516c2be27f8ecdb47eeac0339ff7a1f2151f446f8659b47795a4cdd25",
+      "salt": "7720948f57de6252cc7e001f78d280fb",
+      "masked_display": "ENG-****-19",
+      "assigned_student_ref": "STU-2026-1019",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-stu-19",
+      "code_hash": "cd1ab37d451bdfb338975f05e884287de4d426f69c734f1983a00d7541567b97",
+      "salt": "41e1823766010313cc1078772d767688",
+      "masked_display": "STU-****-19",
+      "assigned_student_ref": "STU-2026-1019",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-19",
+      "code_hash": "676043c800c04bd5122b8c1253a13557df93408354feb5eda6a67e00b91a232f",
+      "salt": "bc39f04f131e0fcfc30c9eb27de5b66f",
+      "masked_display": "ENG-****-19",
+      "assigned_student_ref": "STU-2026-1019",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-20",
+      "code_hash": "0ed710aabe55cac24025d0402b0c8a3a2ff257d2982e63c35911dd7d5a16db73",
+      "salt": "12f7448a3422111958cffd672a5db241",
+      "masked_display": "ENG-****-20",
+      "assigned_student_ref": "STU-2026-1020",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": "2026-10-20T18:35:38.706Z",
+      "max_sessions": 2,
+      "active_sessions": [
+        "16c00bd2fa4260554f2cde3a7867d50b4fbb45fa81bb8f1bada88ada9a5b9206"
+      ]
+    },
+    {
+      "id": "code-alt-stu-20",
+      "code_hash": "89858f1035eb8aa64500d1b1d162e54b3d2c6cd250ff8c2bab443228f8a8388b",
+      "salt": "cefc5b2b991b55f5ceca7633deab328a",
+      "masked_display": "STU-****-20",
+      "assigned_student_ref": "STU-2026-1020",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    },
+    {
+      "id": "code-alt-eng-20",
+      "code_hash": "9ef32b9345319a3c4d6134d82f39e3a9a74deb83a93f8a460c7ca3720acbf6ee",
+      "salt": "3741cfdc173725a737e479b1c972740c",
+      "masked_display": "ENG-****-20",
+      "assigned_student_ref": "STU-2026-1020",
+      "status": "active",
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "expires_at": "2027-04-20T23:59:59.000Z",
+      "last_used_at": null,
+      "max_sessions": 2,
+      "active_sessions": []
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "class_number": 1,
+      "title_en": "Foundations of Spoken English & Phonetics",
+      "title_bn": "শব্দ উচ্চারণ, ধ্বনিবিজ্ঞান ও প্রাথমিক কথোপকথন",
+      "description_en": "Master English vowel & consonant sounds, eliminate regional accents, and establish confident everyday speaking patterns.",
+      "description_bn": "ভাওয়েল ও কনসোন্যান্টের নির্ভুল উচ্চারণ, উচ্চারণের জড়তা কাটানো এবং সাবলীল প্রাথমিক বাক্য গঠন।",
+      "duration_minutes": 45,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 1,
+      "topics": [
+        "IPA Phonetics",
+        "Accent Neutralization",
+        "Greeting Etiquette",
+        "Self Introduction"
+      ],
+      "vocabulary": [
+        {
+          "word": "Pronunciation",
+          "phonetic": "/prəˌnʌn.siˈeɪ.ʃən/",
+          "meaning_bn": "উচ্চারণ",
+          "example": "Clear pronunciation builds instant listener trust."
+        },
+        {
+          "word": "Articulation",
+          "phonetic": "/ɑːˌtɪk.jəˈleɪ.ʃən/",
+          "meaning_bn": "শব্দের স্পষ্ট প্রকাশ",
+          "example": "Practice articulation exercises every morning."
+        },
+        {
+          "word": "Intonation",
+          "phonetic": "/ˌɪn.təˈneɪ.ʃən/",
+          "meaning_bn": "কণ্ঠস্বরের ওঠা-নামা",
+          "example": "Questions in English usually end with rising intonation."
+        },
+        {
+          "word": "Fluency",
+          "phonetic": "/ˈfluː.ən.si/",
+          "meaning_bn": "সাবলীলতা / তোতলামিমুক্ত কথা",
+          "example": "Daily reading enhances spoken fluency."
+        }
+      ],
+      "notes_summary": "Focus on syllable stress. In English, stressing the wrong syllable often confuses listeners more than mispronouncing a letter.",
+      "quiz": [
+        {
+          "question": "Which syllable is stressed in the word \"Photograph\"?",
+          "options": [
+            "PHO-to-graph (first syllable)",
+            "pho-TO-graph (second syllable)",
+            "pho-to-GRAPH (third syllable)",
+            "Equal stress on all syllables"
+          ],
+          "correctIndex": 0,
+          "explanation": "In \"Photograph\", the primary stress is on the first syllable: PHO-to-graph."
+        }
+      ]
+    },
+    {
+      "id": "lesson-2",
+      "class_number": 2,
+      "title_en": "Tense & Sentence Architecture in Everyday Conversations",
+      "title_bn": "দৈনন্দিন কথোপকথনে টেন্স ও বাক্য গঠনের সহজ কৌশল",
+      "description_en": "Learn how to construct error-free sentences on the fly using Present, Past, and Future conversational frames.",
+      "description_bn": "মুখস্থ না করে বাস্তব জীবনের পরিস্থিতিতে টেন্সের স্বাভাবিক প্রয়োগ এবং দ্রুত বাক্য তৈরির সূত্র।",
+      "duration_minutes": 50,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 2,
+      "topics": [
+        "Present Continuous vs Simple",
+        "Past Narratives",
+        "Future Intentions",
+        "Time Markers"
+      ],
+      "vocabulary": [
+        {
+          "word": "Simultaneous",
+          "phonetic": "/ˌsɪm.əlˈteɪ.ni.əs/",
+          "meaning_bn": "একই সাথে ঘটা",
+          "example": "Present continuous describes simultaneous events."
+        },
+        {
+          "word": "Chronological",
+          "phonetic": "/ˌkrɒn.əˈlɒdʒ.ɪ.kəl/",
+          "meaning_bn": "কালানুক্রমিক",
+          "example": "Narrate past stories in chronological order."
+        },
+        {
+          "word": "Habitual",
+          "phonetic": "/həˈbɪtʃ.u.əl/",
+          "meaning_bn": "নিয়মিত বা স্বভাবজাত",
+          "example": "Present simple is for habitual routines."
+        }
+      ],
+      "notes_summary": "Rule of thumb: Use Present Continuous for ongoing activities, Simple Present for permanent truths, and Simple Past for completed episodes.",
+      "quiz": [
+        {
+          "question": "Which sentence correctly depicts a routine action?",
+          "options": [
+            "I am drinking tea every morning.",
+            "I drink tea every morning.",
+            "I was drinking tea every morning.",
+            "I drank tea every morning yet."
+          ],
+          "correctIndex": 1,
+          "explanation": "For daily routine or habit, Present Indefinite (\"I drink tea every morning\") is the natural form."
+        }
+      ]
+    },
+    {
+      "id": "lesson-3",
+      "class_number": 3,
+      "title_en": "Essential Auxiliary & Modal Verbs (Can, Could, Should, Would)",
+      "title_bn": "মডাল অক্সিলিয়ারি ভার্বসের নির্ভুল ও ভদ্রোচিত প্রয়োগ",
+      "description_en": "Command modal verbs to express polite requests, professional suggestions, probability, and past hypothetical actions.",
+      "description_bn": "Can, Could, Should, Would, Might ব্যবহার করে ভদ্রভাবে অনুরোধ ও অফিসের আলোচনা পরিচালনা।",
+      "duration_minutes": 48,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 3,
+      "topics": [
+        "Polite Inquiries",
+        "Giving Advice",
+        "Conditionals",
+        "Obligation vs Recommendation"
+      ],
+      "vocabulary": [
+        {
+          "word": "Courtesy",
+          "phonetic": "/ˈkɜː.tə.si/",
+          "meaning_bn": "ভদ্রতা / সৌজন্য",
+          "example": "Using \"Could\" adds polite courtesy to questions."
+        },
+        {
+          "word": "Recommendation",
+          "phonetic": "/ˌrek.ə.menˈdeɪ.ʃən/",
+          "meaning_bn": "পরামর্শ বা সুপারিশ",
+          "example": "\"Should\" is ideal for gentle recommendations."
+        },
+        {
+          "word": "Hypothetical",
+          "phonetic": "/ˌhaɪ.pəˈθet.ɪ.kəl/",
+          "meaning_bn": "কাল্পনিক / শর্তযুক্ত",
+          "example": "\"Would\" conveys hypothetical scenarios."
+        }
+      ],
+      "notes_summary": "Compare: \"Give me that\" (demanding) vs \"Could you please pass that?\" (respectful international business English).",
+      "quiz": [
+        {
+          "question": "What is the most polite way to ask someone to review a report?",
+          "options": [
+            "Check this report now.",
+            "You must check this report.",
+            "Could you please take a look at this report?",
+            "You will check this report."
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Could you please...\" creates a polite, professional request standard in global workplaces."
+        }
+      ]
+    },
+    {
+      "id": "lesson-4",
+      "class_number": 4,
+      "title_en": "Active Listening & Natural Response Patterns",
+      "title_bn": "মনোযোগ দিয়ে শোনা এবং স্বাভাবিক প্রত্যুত্তর প্রদানের দক্ষতা",
+      "description_en": "Overcome comprehension delays when listening to native speakers and formulate natural conversational follow-ups.",
+      "description_bn": "অন্যের কথা দ্রুত বুঝে অস্বস্তি দূর করা এবং সাবলীল কানেক্টিং ফ্রেইজ ব্যবহারের পদ্ধতি।",
+      "duration_minutes": 42,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 4,
+      "topics": [
+        "Connected Speech",
+        "Active Fillers",
+        "Clarification Queries",
+        "Echo Questions"
+      ],
+      "vocabulary": [
+        {
+          "word": "Comprehension",
+          "phonetic": "/ˌkɒm.prɪˈhen.ʃən/",
+          "meaning_bn": "অনুধাবন বা বোঝার ক্ষমতা",
+          "example": "Active listening accelerates speech comprehension."
+        },
+        {
+          "word": "Paraphrase",
+          "phonetic": "/ˈpær.ə.freɪz/",
+          "meaning_bn": "নিজের ভাষায় পুনরুল্লেখ",
+          "example": "Paraphrase to confirm understanding during discussions."
+        },
+        {
+          "word": "Nuance",
+          "phonetic": "/ˈnjuː.ɑːns/",
+          "meaning_bn": "সূক্ষ্ম অর্থভেদ",
+          "example": "Native speakers rely heavily on emotional nuances."
+        }
+      ],
+      "notes_summary": "Never be afraid to say: \"Could you rephrase that slightly?\" or \"If I understood correctly, you mean...\"",
+      "quiz": [
+        {
+          "question": "When you did not catch what someone said, the best response is:",
+          "options": [
+            "What?!",
+            "Pardon me, could you say that once more?",
+            "Speak loudly.",
+            "I do not care."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Pardon me, could you say that once more?\" is polished and universally understood."
+        }
+      ]
+    },
+    {
+      "id": "lesson-5",
+      "class_number": 5,
+      "title_en": "Professional & Email Communication",
+      "title_bn": "কর্মক্ষেত্র, ইন্টারভিউ ও প্রফেশনাল ইমেইল যোগাযোগ",
+      "description_en": "Write concise, professional emails and conduct impactful interviews and workplace discussions.",
+      "description_bn": "অফিসিয়াল ইমেইল লেখার কাঠামো, ইন্টারভিউতে আত্মবিশ্বাসের সাথে উত্তর এবং মিটিং শিষ্টাচার।",
+      "duration_minutes": 52,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 5,
+      "topics": [
+        "Email Openers & Closers",
+        "Actionable Summaries",
+        "Interview STAR Method",
+        "Handling Deadlines"
+      ],
+      "vocabulary": [
+        {
+          "word": "Concise",
+          "phonetic": "/kənˈsaɪs/",
+          "meaning_bn": "সংক্ষিপ্ত অথচ সুস্পষ্ট",
+          "example": "Keep your status emails crisp and concise."
+        },
+        {
+          "word": "Collaboration",
+          "phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+          "meaning_bn": "যৌথ উদ্যোগ / সহযোগিতা",
+          "example": "We look forward to mutual collaboration on this project."
+        },
+        {
+          "word": "Deliverable",
+          "phonetic": "/dɪˈlɪv.ər.ə.bəl/",
+          "meaning_bn": "নির্দিষ্ট সময়ের মধ্যে প্রদেয় কাজ",
+          "example": "Ensure all milestone deliverables are submitted on time."
+        }
+      ],
+      "notes_summary": "Avoid opening emails with \"Respected Sir\". Modern global workplace English uses \"Hi [First Name],\" or \"Dear [Name],\".",
+      "quiz": [
+        {
+          "question": "What is the STAR method in behavioral interview answers?",
+          "options": [
+            "Speak, Talk, Ask, Repeat",
+            "Situation, Task, Action, Result",
+            "Start, Train, Answer, Review",
+            "Standard, Theory, Apply, Rest"
+          ],
+          "correctIndex": 1,
+          "explanation": "STAR stands for Situation, Task, Action, and Result—the gold standard for answering interview questions."
+        }
+      ]
+    },
+    {
+      "id": "lesson-6",
+      "class_number": 6,
+      "title_en": "Common English Errors & Bengali Speaker Traps",
+      "title_bn": "বাংলাভাষীদের ইংরেজি বলার ক্ষেত্রে সাধারণ ভুল ও তার সমাধান",
+      "description_en": "Identify and eliminate mother-tongue influence (MTI), false prepositions, and direct translation errors.",
+      "description_bn": "শব্দে শব্দে বাংলা থেকে অনুবাদের ভুল, প্রিপজিশনের ভুল এবং প্রচলিত ব্যাকরণগত ভুল সংশোধন।",
+      "duration_minutes": 46,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 6,
+      "topics": [
+        "Mother Tongue Influence",
+        "Preposition Traps",
+        "Countable vs Uncountable",
+        "Subject-Verb Agreement"
+      ],
+      "vocabulary": [
+        {
+          "word": "Preposition",
+          "phonetic": "/ˌprep.əˈzɪʃ.ən/",
+          "meaning_bn": "পদান্বয়ী অব্যয়",
+          "example": "Say \"listen to me\", not \"listen me\"."
+        },
+        {
+          "word": "Agreement",
+          "phonetic": "/əˈɡriː.mənt/",
+          "meaning_bn": "সঙ্গতি বা মিল",
+          "example": "Subject-verb agreement requires \"everyone has\", not \"everyone have\"."
+        },
+        {
+          "word": "Redundancy",
+          "phonetic": "/rɪˈdʌn.dən.si/",
+          "meaning_bn": "অপ্রয়োজনীয় শব্দের পুনরাবৃত্তি",
+          "example": "Avoid \"revert back\"; \"revert\" already means return."
+        }
+      ],
+      "notes_summary": "Say: \"I look forward to meeting you\" (NOT \"meet you\"). Say: \"Discuss the topic\" (NOT \"discuss about the topic\").",
+      "quiz": [
+        {
+          "question": "Which of the following sentences is grammatically correct?",
+          "options": [
+            "We will discuss about this matter.",
+            "We will discuss this matter.",
+            "We will discuss over this matter.",
+            "We will discuss regarding this matter."
+          ],
+          "correctIndex": 1,
+          "explanation": "The verb \"discuss\" is transitive and takes a direct object without the preposition \"about\"."
+        }
+      ]
+    },
+    {
+      "id": "lesson-7",
+      "class_number": 7,
+      "title_en": "Vocabulary Expansion & Idiomatic Expressions",
+      "title_bn": "দৈনন্দিন শব্দভাণ্ডার বৃদ্ধি ও ন্যাচারাল ইডিয়মসের ব্যবহার",
+      "description_en": "Expand from basic words to high-impact descriptive adjectives, phrasal verbs, and everyday conversational idioms.",
+      "description_bn": "সাধারণ শব্দের জায়গায় মানসম্মত শব্দচয়ন, ফ্রেজাল ভার্ব ও আন্তর্জাতিক ইংরেজিতে ব্যবহৃত ইডিয়ম।",
+      "duration_minutes": 49,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 7,
+      "topics": [
+        "High-Frequency Phrasal Verbs",
+        "Business Idioms",
+        "Contextual Synonyms",
+        "Collocations"
+      ],
+      "vocabulary": [
+        {
+          "word": "Breakthrough",
+          "phonetic": "/ˈbreɪk.θruː/",
+          "meaning_bn": "উল্লেখযোগ্য সাফল্য বা আবিষ্কার",
+          "example": "The new method marked a major breakthrough in fluency."
+        },
+        {
+          "word": "Pragmatic",
+          "phonetic": "/præɡˈmæt.ɪk/",
+          "meaning_bn": "বাস্তবধর্মী ও কার্যকর",
+          "example": "Take a pragmatic approach to language practice."
+        },
+        {
+          "word": "Resilient",
+          "phonetic": "/rɪˈzɪl.jənt/",
+          "meaning_bn": "ধৈর্যশীল ও ঘুরে দাঁড়াতে সক্ষম",
+          "example": "Language learners must stay resilient through errors."
+        }
+      ],
+      "notes_summary": "Idiom of the week: \"Cut to the chase\" (মূল বিষয়ে আসা), \"Hit the nail on the head\" (একেবারে সঠিক কথা বলা).",
+      "quiz": [
+        {
+          "question": "What does \"Cut corners\" mean in an everyday conversational context?",
+          "options": [
+            "Draw sharp geometric lines",
+            "Do something hastily or cheaply to save money/effort",
+            "Walk quickly around buildings",
+            "Trim pieces of paper"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"To cut corners\" means to do something in a cheap, hurried or improper way to save resources."
+        }
+      ]
+    },
+    {
+      "id": "lesson-8",
+      "class_number": 8,
+      "title_en": "Fluency & Hesitation Elimination",
+      "title_bn": "ঝরঝরে ইংরেজি বলা এবং মানসিক জড়তা ও ভীতি দূরীকরণ",
+      "description_en": "Techniques to stop translating in your head and train your vocal muscles for uninterrupted, smooth sentence flow.",
+      "description_bn": "মাথায় বাংলা থেকে ইংরেজি অনুবাদ করার অভ্যাস বাদ দেওয়ার কৌশল এবং আত্মবিশ্বাসী স্পিকিং স্পিড।",
+      "duration_minutes": 44,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 8,
+      "topics": [
+        "Stop Mental Translation",
+        "Shadowing Technique",
+        "Pacing & Pause Control",
+        "Chunking Speech"
+      ],
+      "vocabulary": [
+        {
+          "word": "Hesitation",
+          "phonetic": "/ˌhez.ɪˈteɪ.ʃən/",
+          "meaning_bn": "দ্বিধা বা ইতস্তত ভাব",
+          "example": "Regular shadowing diminishes speech hesitation."
+        },
+        {
+          "word": "Spontaneous",
+          "phonetic": "/spɒnˈteɪ.ni.əs/",
+          "meaning_bn": "স্বতঃস্ফূর্ত",
+          "example": "Our goal is spontaneous conversation without translation delays."
+        },
+        {
+          "word": "Rhythm",
+          "phonetic": "/ˈrɪð.əm/",
+          "meaning_bn": "ছন্দ বা তাল",
+          "example": "English has a stress-timed rhythm."
+        }
+      ],
+      "notes_summary": "Shadowing technique: Listen to an English podcast/audio sentence and repeat it immediately with a 0.5-second delay to mimic natural cadence.",
+      "quiz": [
+        {
+          "question": "What is speech \"chunking\"?",
+          "options": [
+            "Speaking one word at a time slowly",
+            "Grouping words into meaningful phrases rather than isolated single words",
+            "Shouting key words loudly",
+            "Skipping all difficult words"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chunking means speaking in natural thought groups (e.g., \"In the meantime / if you don't mind / let's review the plan\")."
+        }
+      ]
+    },
+    {
+      "id": "lesson-9",
+      "class_number": 9,
+      "title_en": "Public Speaking & Presentation Skills",
+      "title_bn": "পাবলিক স্পিকিং, প্রেজেন্টেশন ও অডিয়েন্স এনগেজমেন্ট",
+      "description_en": "Structure a compelling speech, command the room with vocal projection, and deliver presentations that engage audiences.",
+      "description_bn": "স্টেজে বা ভার্চুয়াল প্রেজেন্টেশনে ভয় দূর করা, কণ্ঠের ওঠানামা এবং সুন্দর সূচনা ও সমাপ্তির কৌশল।",
+      "duration_minutes": 54,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 9,
+      "topics": [
+        "Presentation Structure (Hook, Meat, Call)",
+        "Slide Narration",
+        "Q&A Handling",
+        "Body Language"
+      ],
+      "vocabulary": [
+        {
+          "word": "Compelling",
+          "phonetic": "/kəmˈpel.ɪŋ/",
+          "meaning_bn": "মনোমুগ্ধকর ও যুক্তিগ্রাহ্য",
+          "example": "Open your presentation with a compelling true story."
+        },
+        {
+          "word": "Articulation",
+          "phonetic": "/ɑːˌtɪk.jəˈleɪ.ʃən/",
+          "meaning_bn": "স্পষ্টভাবে কথা উপস্থাপন",
+          "example": "Public speakers must have clear articulation."
+        },
+        {
+          "word": "Engagement",
+          "phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+          "meaning_bn": "শ্রোতার সম্পৃক্ততা ও মনোযোগ",
+          "example": "Ask rhetorical questions to boost audience engagement."
+        }
+      ],
+      "notes_summary": "The 3-Part Presentation Rule: 1) Tell them what you are going to tell them. 2) Tell them. 3) Tell them what you told them.",
+      "quiz": [
+        {
+          "question": "What is the best way to open a high-stakes presentation?",
+          "options": [
+            "Apologize for being nervous",
+            "Read every bullet point on slide 1",
+            "Open with a thought-provoking question, surprising fact, or story hook",
+            "Say \"I am not prepared today\""
+          ],
+          "correctIndex": 2,
+          "explanation": "A strong hook instantly grabs attention and establishes credibility."
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "class_number": 10,
+      "title_en": "Capstone Discussion & Conversational Mastery",
+      "title_bn": "চূড়ান্ত ক্লাস: বাস্তব জীবনের মক ডিসকাশন ও সার্বিক পর্যালোচনা",
+      "description_en": "Comprehensive synthesis of all 10 modules: debate practice, business negotiations, and lifetime speaking habits.",
+      "description_bn": "১০টি ক্লাসের সম্পূর্ণ রিভিশন, বিতর্ক ও আলোচনা অনুশীলন এবং আজীবন অনুশীলনের রূপরেখা।",
+      "duration_minutes": 58,
+      "provider": "youtube",
+      "video_url": "https://youtu.be/5rT-J8cq74U",
+      "published": true,
+      "sort_order": 10,
+      "topics": [
+        "Full Course Review",
+        "Constructive Disagreement",
+        "Negotiation Phrases",
+        "Long-term Growth Plan"
+      ],
+      "vocabulary": [
+        {
+          "word": "Mastery",
+          "phonetic": "/ˈmɑː.stər.i/",
+          "meaning_bn": "পূর্ণ দক্ষতা বা পারদর্শিতা",
+          "example": "Mastery comes from sustained daily speaking practice."
+        },
+        {
+          "word": "Synthesis",
+          "phonetic": "/ˈsɪn.θə.sɪs/",
+          "meaning_bn": "সমন্বয় বা সামগ্রিক রূপ",
+          "example": "This capstone is a synthesis of phonetics, grammar, and delivery."
+        },
+        {
+          "word": "Sustainable",
+          "phonetic": "/səˈsteɪ.nə.bəl/",
+          "meaning_bn": "দীর্ঘস্থায়ী ও নিয়মিত অব্যাহত রাখা যায় এমন",
+          "example": "Form a sustainable 15-minute daily English speaking habit."
+        }
+      ],
+      "notes_summary": "Congratulations on completing the 10-class portal! Continue to record your voice weekly and speak at least 15 minutes daily.",
+      "quiz": [
+        {
+          "question": "How do you politely disagree in a professional discussion?",
+          "options": [
+            "You are totally wrong!",
+            "I see your point; however, let's also consider another perspective...",
+            "I refuse to listen to this.",
+            "That makes no sense whatsoever."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"I see your point; however, let's also consider...\" shows diplomacy while presenting your view."
+        }
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-1792522436038-eac5d0",
+      "actor_ref": "Mahdi",
+      "event_type": "LOGIN_SUCCESS",
+      "timestamp": "2026-10-20T18:53:56.038Z",
+      "outcome": "success",
+      "details": "Authenticated with password.",
+      "ip_masked": "127.0.0.***"
+    },
+    {
+      "id": "audit-1792521580139-bbc65f",
+      "actor_ref": "ADMIN_ROOT",
+      "event_type": "LOGIN_SUCCESS",
+      "timestamp": "2026-10-20T18:39:40.139Z",
+      "outcome": "success",
+      "details": "Admin logged in with verified MFA token.",
+      "ip_masked": "127.0.0.***"
+    },
+    {
+      "id": "audit-1792521338707-19e202",
+      "actor_ref": "STU-2026-1020",
+      "event_type": "LOGIN_SUCCESS",
+      "timestamp": "2026-10-20T18:35:38.707Z",
+      "outcome": "success",
+      "details": "Authenticated with code ENG-****-20.",
+      "ip_masked": "127.0.0.***"
+    },
+    {
+      "id": "audit-1792521333786-021164",
+      "actor_ref": "STU-2026-1001",
+      "event_type": "LOGIN_SUCCESS",
+      "timestamp": "2026-10-20T18:35:33.786Z",
+      "outcome": "success",
+      "details": "Authenticated with code STU-****-01.",
+      "ip_masked": "127.0.0.***"
+    },
+    {
+      "id": "audit-1792521329377-435e38",
+      "actor_ref": "STU-2026-1001",
+      "event_type": "LOGIN_SUCCESS",
+      "timestamp": "2026-10-20T18:35:29.377Z",
+      "outcome": "success",
+      "details": "Authenticated with code ENG-****-01.",
+      "ip_masked": "127.0.0.***"
+    },
+    {
+      "id": "audit-1792521325455-init",
+      "actor_ref": "SYSTEM_BOOT",
+      "event_type": "BATCH_IMPORTED",
+      "timestamp": "2026-10-20T18:35:25.455Z",
+      "outcome": "success",
+      "details": "Initial 20 clean access codes (ENG-2026-01..20, STUDENT01..20, ENG01..20) securely salted, hashed and provisioned.",
+      "ip_masked": "127.0.0.1"
+    }
+  ],
+  "demoCodesForTesting": [
+    {
+      "raw_code": "ENG-2026-01",
+      "label": "Student #1 (STU-2026-1001)"
+    },
+    {
+      "raw_code": "ENG-2026-02",
+      "label": "Student #2 (STU-2026-1002)"
+    },
+    {
+      "raw_code": "ENG-2026-03",
+      "label": "Student #3 (STU-2026-1003)"
+    },
+    {
+      "raw_code": "ENG-2026-04",
+      "label": "Student #4 (STU-2026-1004)"
+    },
+    {
+      "raw_code": "ENG-2026-05",
+      "label": "Student #5 (STU-2026-1005)"
+    },
+    {
+      "raw_code": "ENG-2026-06",
+      "label": "Student #6 (STU-2026-1006)"
+    },
+    {
+      "raw_code": "ENG-2026-07",
+      "label": "Student #7 (STU-2026-1007)"
+    },
+    {
+      "raw_code": "ENG-2026-08",
+      "label": "Student #8 (STU-2026-1008)"
+    },
+    {
+      "raw_code": "ENG-2026-09",
+      "label": "Student #9 (STU-2026-1009)"
+    },
+    {
+      "raw_code": "ENG-2026-10",
+      "label": "Student #10 (STU-2026-1010)"
+    },
+    {
+      "raw_code": "ENG-2026-11",
+      "label": "Student #11 (STU-2026-1011)"
+    },
+    {
+      "raw_code": "ENG-2026-12",
+      "label": "Student #12 (STU-2026-1012)"
+    },
+    {
+      "raw_code": "ENG-2026-13",
+      "label": "Student #13 (STU-2026-1013)"
+    },
+    {
+      "raw_code": "ENG-2026-14",
+      "label": "Student #14 (STU-2026-1014)"
+    },
+    {
+      "raw_code": "ENG-2026-15",
+      "label": "Student #15 (STU-2026-1015)"
+    },
+    {
+      "raw_code": "ENG-2026-16",
+      "label": "Student #16 (STU-2026-1016)"
+    },
+    {
+      "raw_code": "ENG-2026-17",
+      "label": "Student #17 (STU-2026-1017)"
+    },
+    {
+      "raw_code": "ENG-2026-18",
+      "label": "Student #18 (STU-2026-1018)"
+    },
+    {
+      "raw_code": "ENG-2026-19",
+      "label": "Student #19 (STU-2026-1019)"
+    },
+    {
+      "raw_code": "ENG-2026-20",
+      "label": "Student #20 (STU-2026-1020)"
+    }
+  ],
+  "adminSessions": [
+    "adm-03b5c68f51f03c29f73fa0ae0c7a714f776bf969601eee71"
+  ]
+}
